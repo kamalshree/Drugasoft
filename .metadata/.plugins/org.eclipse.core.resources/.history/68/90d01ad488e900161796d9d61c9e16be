@@ -1,0 +1,17 @@
+
+public class Method8 {
+
+	int x=10;
+	int y=20;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public void m1(int x,int y){
+		
+	}
+	
+	public static void m2(int x, int y){
+		
+	}
+}

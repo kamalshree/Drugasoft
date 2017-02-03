@@ -1,0 +1,38 @@
+
+public class DefaultValues {
+	
+	byte b;
+	short s;
+	int i;
+	long l;
+	
+	float f;
+	double d;
+	
+	char c;
+	boolean bool;
+	
+	LocalVariable1 x;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	void m1(){
+		System.out.println("Default values");
+		System.out.println("Byte Default value "+b);
+		System.out.println("short Default value "+b);
+		System.out.println("int Default value "+b);
+		System.out.println("long Default value "+b);
+		
+		System.out.println("float Default value "+b);
+		System.out.println("double Default value "+b);
+		
+		System.out.println("char Default value "+b);
+		System.out.println("boolean Default value "+b);
+		
+		System.out.println("class Default value "+b);
+	}
+
+}

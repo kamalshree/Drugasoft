@@ -1,0 +1,16 @@
+
+public class InstanceVersusStatic {
+	
+	String empName;
+	static String orgName ="XXX LTD";
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		InstanceVersusStatic obj1=new InstanceVersusStatic();
+		obj1.empName="john";
+		System.out.println(obj1.empName);
+		System.out.println(InstanceVersusStatic.orgName);
+	}
+	
+
+}

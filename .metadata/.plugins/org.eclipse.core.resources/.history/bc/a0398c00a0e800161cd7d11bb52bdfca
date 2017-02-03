@@ -1,0 +1,26 @@
+
+public class DefaultValues {
+	
+	byte b;
+	short s;
+	int i;
+	long l;
+	
+	float f;
+	double d;
+	
+	char c;
+	boolean bool;
+	
+	LocalVariable1 x;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	void m1(){
+		
+	}
+
+}

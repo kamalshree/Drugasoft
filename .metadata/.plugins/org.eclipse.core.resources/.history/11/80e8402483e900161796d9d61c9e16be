@@ -1,0 +1,15 @@
+
+public class Method1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public void m1(int a,char c){//local variables
+		System.out.println("instance block");
+		System.out.println("value of a is "+a);
+		System.out.println("value of c is "+c);
+	}
+
+}

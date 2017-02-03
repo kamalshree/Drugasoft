@@ -1,0 +1,20 @@
+
+public class Method8 {
+
+	int x=10;
+    static int y=20;
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	public void m1(int x,int y){
+		System.out.println("local variables x and y "+(x+y));
+		System.out.println("instance variables x and y "+(this.x+this.y));
+	}
+	
+	public static void m2(int x, int y){
+		System.out.println("local variables x and y "+(x+y));
+		System.out.println("instance variables x and y "+(x+Method8.y));
+	}
+}

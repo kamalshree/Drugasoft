@@ -1,0 +1,3 @@
+INDEX VERSION 1.129+C:\kamal\Java-durgasoft\.metadata\.plugins\org.eclipse.jdt.core
+1670916203.index
+2895242668.index

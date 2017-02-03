@@ -1,0 +1,15 @@
+
+public class StaticVariable {
+	//static Variables
+	static int x=100;
+	static int y=200;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+	
+	public void m1(){
+		
+	}
+
+}
